@@ -1,0 +1,4 @@
+com/fju/Person.java
+ com.fju.Person
+com/fju/Customer.java
+ com.fju.Customer
